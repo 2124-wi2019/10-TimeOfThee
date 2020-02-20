@@ -1,0 +1,10 @@
+.greenText{
+    color:green;
+    font-family: Arial;
+    size: 2em;
+}
+.ghostText{
+    color:grey;
+    font-family: fantasy;
+    padding-left: 15em;
+}
